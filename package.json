@@ -1,5 +1,5 @@
 {
-  "name": "hrla29-react-review",
+  "name": "hrla31-react-review",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,10 @@
     "url": "git+https://github.com/matthewmata/HRLA31-react-review.git"
   },
   "keywords": [],
-  "author": "Matthew Mata",
+  "contributors": [
+    "Matthew Mata",
+    "Andrew More <recondomore@gmail.com>"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/matthewmata/HRLA31-react-review/issues"
