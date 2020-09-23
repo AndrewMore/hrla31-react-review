@@ -6,4 +6,4 @@ const port = 3000;
 
 app.use(express.static(path.resolve(__dirname, '../static')));
 
-app.listen(port, () => console.log(`Todo List listening on port ${port}!`))
+app.listen(port, () => console.log(`Todo List listening at http://localhost:${port}`))
